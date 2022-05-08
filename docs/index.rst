@@ -1,7 +1,7 @@
 Sustainable Development Goals
 =============================
 
-.. image:: /images/SDGPoster.png
+.. image:: images/SDGPoster.png
    :width: 400 px
    :align: center
 
