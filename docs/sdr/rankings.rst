@@ -18,4 +18,4 @@ All 193 UN Member States are ranked by their overall score. The overall score me
    df_data2021.rename(columns={'2021 SDG Index Score':'Score'}, inplace=True)
    df_index = df_data2021[['Country','Score']].head(193)
    df_index.sort_values(by=['Score'],inplace=True)
-   print(df_index.to_string())
+   df_index
