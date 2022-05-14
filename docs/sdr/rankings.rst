@@ -8,11 +8,11 @@ Overall performance
 
 All 193 UN Member States are ranked by their overall score. The overall score measures a country's total progress towards achieving all 17 SDGs. The score can be interpreted as a percentage of SDG achievement. A score of 100 indicates that all SDGs have been achieved.
 
-.. include:: sdr/sdgindex2021.rst
+.. include:: sdgindex2021.rst
 
 Spillover performance
 ---------------------
 
 Countries are ranked by their spillover score. Each country's actions can have positive or negative effects on other countries' abilities to achieve the SDGs. The Spillover Index assesses such spillovers along three dimensions: environmental & social impacts embodied into trade, economy & finance, and security. A higher score means that a country causes more positive and fewer negative spillover effects.
 
-.. include:: sdr/spillover2021.rst
+.. include:: spillover2021.rst
