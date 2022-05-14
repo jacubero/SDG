@@ -4,3 +4,4 @@ numpydoc
 pillow
 sphinx_rtd_theme
 mistune<=0.8.4
+altair
