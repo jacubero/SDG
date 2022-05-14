@@ -29,12 +29,19 @@ For example, here we specify data via a DataFrame:
        y='y',
    )
 
+Otro ejemplo
+
 .. altair-plot::
 
    import altair as alt
    import pandas as pd
 
-   alt.Chart({"url":'datasets/data.csv')
+   source=alt.UrlData('content/gdrive/My Drive/SCTFT/Tables/one.json')
+
+    alt.Chart(source).mark_bar().encode(
+       x='x',
+       y='y',
+   )
 
 When data is specified as a DataFrame, the encoding is quite simple, as Altair
 uses the data type information provided by Pandas to automatically determine
