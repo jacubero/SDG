@@ -36,9 +36,9 @@ Otro ejemplo
    import altair as alt
    import pandas as pd
 
-   source=alt.UrlData('content/gdrive/My Drive/SCTFT/Tables/one.json')
+   source=alt.UrlData('datasets/data.csv')
 
-    alt.Chart(source).mark_bar().encode(
+   alt.Chart(source).mark_bar().encode(
        x='x',
        y='y',
    )
