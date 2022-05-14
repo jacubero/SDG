@@ -1,4 +1,6 @@
-# File: docs/requirements.txt
-
-# Defining the exact version will make sure things don't break
-docutils<0.18
+sphinx
+jinja2
+numpydoc
+pillow
+sphinx_rtd_theme
+mistune<=0.8.4
