@@ -19,3 +19,4 @@ All 193 UN Member States are ranked by their overall score. The overall score me
    df_index = df_data2021[['Country','Score']].head(193)
    df_index.sort_values(by=['Score'], ascending=False, inplace=True)
    df_index.reset_index(drop=True)
+   df_index.index += 1 
