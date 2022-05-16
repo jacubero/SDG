@@ -10,23 +10,23 @@ All 193 UN Member States are ranked by their overall score. The overall score me
 
 .. tabs::
 
-   .. tab:: Stars
+   .. tab:: 2021
 
       .. tabs::
 
-         .. tab:: The Sun
+         .. tab:: All regions
 
-            The closest star to us.
+            .. include:: rankings/sdgindex2021.rst
 
-         .. tab:: Proxima Centauri
+         .. tab:: East and South Asia
 
-            The second closest star to us.
+            .. include:: rankings/sdgindex2021.rst
 
-         .. tab:: Polaris
+         .. tab:: Eastern Europe and Central Asia
 
-            The North Star.
+            .. include:: rankings/sdgindex2021.rst
 
-   .. tab:: Moons
+   .. tab:: 2020
 
       .. tabs::
 
@@ -37,8 +37,7 @@ All 193 UN Member States are ranked by their overall score. The overall score me
          .. tab:: Titan
 
             Orbits Jupiter
-               
-.. include:: rankings/sdgindex2021.rst
+
 
 Spillover performance
 ---------------------
