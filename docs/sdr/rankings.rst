@@ -8,22 +8,36 @@ Overall performance
 
 All 193 UN Member States are ranked by their overall score. The overall score measures a country's total progress towards achieving all 17 SDGs. The score can be interpreted as a percentage of SDG achievement. A score of 100 indicates that all SDGs have been achieved.
 
-.. tab:: One
+.. tabs::
 
-   One is an interesting number.
+   .. tab:: Stars
 
-.. tab:: Two
+      .. tabs::
 
-   Two is the even prime.
+         .. tab:: The Sun
 
-.. tab:: Three
+            The closest star to us.
 
-   Three is an odd prime.
+         .. tab:: Proxima Centauri
 
-.. tab:: Four
+            The second closest star to us.
 
-   Four is not a perfect number.
-   
+         .. tab:: Polaris
+
+            The North Star.
+
+   .. tab:: Moons
+
+      .. tabs::
+
+         .. tab:: The Moon
+
+            Orbits the Earth
+
+         .. tab:: Titan
+
+            Orbits Jupiter
+               
 .. include:: rankings/sdgindex2021.rst
 
 Spillover performance

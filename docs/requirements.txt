@@ -5,4 +5,4 @@ pillow
 sphinx_rtd_theme
 mistune<=0.8.4
 altair
-sphinx-inline-tabs
+sphinx-tabs
