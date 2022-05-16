@@ -9,11 +9,9 @@ Interactive map
 
     import altair as alt
     import pandas as pd
-    from vega_datasets import data
 
-    df_sdg_spill2021 = pd.read_csv('/datasets/sdg_spill2021.csv')
-    df_sdg_spill2021.rename(columns={'2021 SDG Index Score': 'IndexScore', 'Spillover Score (0-100)': 'SpilloverScore'}, inplace=True)
-
+    df_sdg_spill2021 = pd.read_csv('prueba.csv')
+ 
     df_sdg_spill2021    
 
 Otro ejemplo
