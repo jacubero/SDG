@@ -1,34 +1,51 @@
 .. _user-guide-data:
 
-Specifying Data in Altair
--------------------------
+Interactive map
+---------------
 
 .. currentmodule:: altair
 
-Each top-level chart object (i.e. :class:`Chart`, :class:`LayerChart`,
-and :class:`VConcatChart`, :class:`HConcatChart`, :class:`RepeatChart`,
-:class:`FacetChart`) accepts a dataset as its first argument.
-The dataset can be specified in one of the following ways:
-
-- as a `Pandas DataFrame <http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html>`_
-- as a :class:`Data` or related object (i.e. :class:`UrlData`, :class:`InlineData`, :class:`NamedData`)
-- as a url string pointing to a ``json`` or ``csv`` formatted text file
-- as an object that supports the `__geo_interface__` (eg. `Geopandas GeoDataFrame <http://geopandas.org/data_structures.html#geodataframe>`_, `Shapely Geometries <https://shapely.readthedocs.io/en/latest/manual.html#geometric-objects>`_, `GeoJSON Objects <https://github.com/jazzband/geojson#geojson-objects>`_)
-
-For example, here we specify data via a DataFrame:
-
 .. altair-plot::
 
-   import altair as alt
-   import pandas as pd
+    import altair as alt
+    import pandas as pd
+    from vega_datasets import data
 
-   data = pd.DataFrame({'x': ['A', 'B', 'C', 'D', 'E'],
-                        'y': [5, 3, 6, 7, 2]})
-   alt.Chart(data).mark_bar().encode(
-       x='x',
-       y='y',
-   )
+    csvs_path = 'https://github.com/jacubero/SDG/raw/main/datasets/'
 
+    df_sdg_spill2021 = pd.read_csv(csvs_path+'df_sdg_spill2021.csv')
+    df_sdg_spill2021.rename(columns={'2021 SDG Index Score': 'IndexScore', 'Spillover Score (0-100)', 'SpilloverScore'}, inplace=True)
+
+    # Data generators for the background
+    sphere = alt.sphere()
+    graticule = alt.graticule()
+
+    # Source of land data
+    source = alt.topo_feature(data.world_110m.url, 'countries')
+    variable_list = ['IndexScore', 'Country', 'id']
+
+    background = alt.Chart(source).mark_geoshape(fill="lightgray")
+
+    # Layering and configuring the components
+    foreground = (
+        alt.Chart(source).transform_calculate(
+        url='https://www.google.com/search?q=' + alt.datum.Country
+    ).mark_geoshape(stroke='black', strokeWidth=.15).encode(
+        color=alt.condition('isValid(datum.IndexScore)','IndexScore:Q', alt.ColorValue("grey")), 
+        href='url:N', tooltip=['image:N','Country:N', alt.Tooltip('IndexScore:Q',title="Index Score", format=",.2f")]).
+        transform_lookup(
+        lookup='id',
+        from_=alt.LookupData(df_sdg_spill2021, 'id', variable_list))
+    )
+        
+    chart = (
+        (background + foreground)
+        .configure_view(strokeWidth=0)
+        .properties(width=900, height=600)
+        .project("naturalEarth1")
+    )
+
+    chart
 Otro ejemplo
 
 .. altair-plot::
