@@ -1,5 +1,5 @@
 .. list-table:: All regions
-   :widths: 25 25 25 25
+   :widths: 4 7 25 4
    :header-rows: 1
    :stub-columns: 1
 
