@@ -36,14 +36,7 @@ Interactive map
         from_=alt.LookupData(df_sdg_spill2021, 'id', variable_list))
     )
         
-    chart = (
-        (background + foreground)
-        .configure_view(strokeWidth=0)
-        .properties(width=900, height=600)
-        .project("naturalEarth1")
-    )
-
-    chart
+    (background + foreground).configure_view(strokeWidth=0).properties(width=900, height=600).project("naturalEarth1")
 
 Otro ejemplo
 
