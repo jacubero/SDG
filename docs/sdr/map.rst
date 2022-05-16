@@ -14,6 +14,19 @@ Interactive map
     df_sdg_spill2021 = pd.read_csv('/datasets/sdg_spill2021.csv')
     df_sdg_spill2021.rename(columns={'2021 SDG Index Score': 'IndexScore', 'Spillover Score (0-100)': 'SpilloverScore'}, inplace=True)
 
+    df_sdg_spill2021    
+
+Otro ejemplo
+
+.. altair-plot::
+
+    import altair as alt
+    import pandas as pd
+    from vega_datasets import data
+
+    df_sdg_spill2021 = pd.read_csv('/datasets/sdg_spill2021.csv')
+    df_sdg_spill2021.rename(columns={'2021 SDG Index Score': 'IndexScore', 'Spillover Score (0-100)': 'SpilloverScore'}, inplace=True)
+
     # Data generators for the background
     sphere = alt.sphere()
     graticule = alt.graticule()
@@ -36,21 +49,14 @@ Interactive map
         from_=alt.LookupData(df_sdg_spill2021, 'id', variable_list))
     )
         
-    (background + foreground).configure_view(strokeWidth=0).properties(width=900, height=600).project("naturalEarth1")
+    chart = (
+        (background + foreground)
+        .configure_view(strokeWidth=0)
+        .properties(width=900, height=600)
+        .project("naturalEarth1")
+    )
 
-Otro ejemplo
-
-.. altair-plot::
-
-   import altair as alt
-   import pandas as pd
-
-   data = pd.read_csv('datasets/data.csv')
-
-   alt.Chart(data).mark_bar().encode(
-       x='x',
-       y='y',
-   )
+    chart
 
 When data is specified as a DataFrame, the encoding is quite simple, as Altair
 uses the data type information provided by Pandas to automatically determine
