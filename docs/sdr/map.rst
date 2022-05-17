@@ -5,6 +5,5 @@ Interactive map
 
 .. currentmodule:: altair
 
-
 .. raw:: html
-   :file: map/filename.html
+   :file: map/overallscore.html
