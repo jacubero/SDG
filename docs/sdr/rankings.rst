@@ -14,7 +14,7 @@ World Index Score
    import pandas as pd
    import altair as alt
 
-   source = pd.read_csv('ranking/average.csv')
+   source = pd.read_csv('rankings/average.csv')
 
    alt.Chart(source).mark_line(point=True).encode(
       alt.X('Year', scale=alt.Scale(zero=False)),
