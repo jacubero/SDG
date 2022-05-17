@@ -1,0 +1,194 @@
+Country Code ISO3,Country,IndexScore,IndexRank,SpilloverScore,Regions used for the SDR,id,image
+AFG,Afghanistan,46.238884490124335,151.0,93.78115185461505,E. Europe & C. Asia,4,/flags/tn_af-flag.gif
+ALB,Albania,68.90786724278006,62.0,88.74665752241789,E. Europe & C. Asia,8,/flags/tn_al-flag.gif
+DZA,Algeria,67.88040682937662,68.0,96.83871552538592,MENA,12,/flags/tn_dz-flag.gif
+AND,Andorra,,,,E. Europe & C. Asia,20,/flags/tn_ad-flag.gif
+AGO,Angola,49.55654067196218,144.0,98.65910588972676,Africa,24,/flags/tn_ao-flag.gif
+ATG,Antigua and Barbuda,,,,LAC,28,/flags/tn_ag-flag.gif
+ARG,Argentina,70.28162947939757,53.0,97.40345753125264,LAC,32,/flags/tn_ar-flag.gif
+ARM,Armenia,69.27221247954404,58.0,92.44643310349696,E. Europe & C. Asia,51,/flags/tn_am-flag.gif
+AUS,Australia,72.88894143359083,37.0,62.0007518295596,OECD,36,/flags/tn_au-flag.gif
+AUT,Austria,79.95361967947616,9.0,62.80525517351088,OECD,40,/flags/tn_at-flag.gif
+AZE,Azerbaijan,70.79579144729884,45.0,97.36474212066322,E. Europe & C. Asia,31,/flags/tn_az-flag.gif
+BHS,"Bahamas, The",,,,LAC,44,/flags/tn_bs-flag.gif
+BHR,Bahrain,65.89790610799609,80.0,77.82836156837713,MENA,48,/flags/tn_bh-flag.gif
+BGD,Bangladesh,59.346448989912034,111.0,97.8557604162523,East & South Asia,50,/flags/tn_bd-flag.gif
+BRB,Barbados,,,,LAC,52,/flags/tn_bb-flag.gif
+BLR,Belarus,75.99073142763645,23.0,90.92095806553792,E. Europe & C. Asia,112,/flags/tn_by-flag.gif
+BEL,Belgium,79.00074058080652,12.0,56.97698026858666,OECD,56,/flags/tn_be-flag.gif
+BLZ,Belize,62.321156134643104,103.0,91.44207211004084,LAC,84,/flags/tn_bz-flag.gif
+BEN,Benin,48.98080695879245,147.0,96.17333077165924,Africa,204,/flags/tn_bj-flag.gif
+BTN,Bhutan,65.39151272004206,83.0,88.21664543155235,East & South Asia,64,/flags/tn_bt-flag.gif
+BOL,Bolivia,68.0752635800685,66.0,98.92550578039504,LAC,68,/flags/tn_bo-flag.gif
+BIH,Bosnia and Herzegovina,67.30942304717789,71.0,96.1724102261799,E. Europe & C. Asia,70,/flags/tn_ba-flag.gif
+BWA,Botswana,58.46253158279816,116.0,71.40397158177156,Africa,72,/flags/tn_bw-flag.gif
+BRA,Brazil,69.6855692548435,56.0,97.54623570959396,LAC,76,/flags/tn_br-flag.gif
+BRN,Brunei Darussalam,,,,East & South Asia,96,/flags/tn_bn-flag.gif
+BGR,Bulgaria,73.12625813083652,34.0,91.04132311240576,E. Europe & C. Asia,100,/flags/tn_bg-flag.gif
+BFA,Burkina Faso,50.882511914614,136.0,96.34207575228412,Africa,854,/flags/tn_bf-flag.gif
+BDI,Burundi,49.82058349878471,141.0,99.30717881335929,Africa,108,/flags/tn_bi-flag.gif
+CPV,Cabo Verde,64.67537958003082,88.0,88.7733862029712,Africa,132,/flags/tn_cv-flag.gif
+KHM,Cambodia,60.38124746502752,109.0,98.62837588981996,East & South Asia,116,/flags/tn_kh-flag.gif
+CMR,Cameroon,55.78373887250131,121.0,97.740479560993,Africa,120,/flags/tn_cm-flag.gif
+CAN,Canada,76.79490792658476,20.0,72.83947919787646,OECD,124,/flags/tn_ca-flag.gif
+CAF,Central African Republic,37.65509004119803,156.0,98.9515026748334,Africa,140,/flags/tn_cf-flag.gif
+TCD,Chad,42.8070738501704,155.0,99.45283502333582,Africa,148,/flags/tn_td-flag.gif
+CHL,Chile,72.7915147338714,38.0,97.7089879749952,OECD,152,/flags/tn_cl-flag.gif
+CHN,China,70.05326561191632,54.0,95.7741703777086,East & South Asia,156,/flags/tn_cn-flag.gif
+COL,Colombia,66.60816093979578,74.0,94.10171087059108,LAC,170,/flags/tn_co-flag.gif
+COM,Comoros,,,,Africa,174,/flags/tn_km-flag.gif
+COD,"Congo, Dem. Rep.",43.38834751935794,154.0,99.27132870729106,Africa,180,/flags/tn_cd-flag.gif
+COG,"Congo, Rep.",52.38490921084371,130.0,98.68624264835336,Africa,178,/flags/tn_cg-flag.gif
+CRI,Costa Rica,73.15188100911526,33.0,90.28242778003396,LAC,188,/flags/tn_cr-flag.gif
+CIV,Cote d'Ivoire,55.17761649437761,122.0,96.59219991873672,Africa,384,/flags/tn_ci-flag.gif
+HRV,Croatia,76.51922863844818,21.0,85.44298789949622,E. Europe & C. Asia,191,/flags/tn_hr-flag.gif
+CUB,Cuba,71.33861891730643,42.0,96.14423783741296,LAC,192,/flags/tn_cu-flag.gif
+CYP,Cyprus,70.36412982315215,50.0,46.14997593812293,E. Europe & C. Asia,196,/flags/tn_cy-flag.gif
+CZE,Czech Republic,78.72328237899966,13.0,79.66278570020275,OECD,203,/flags/tn_cz-flag.gif
+DNK,Denmark,84.60824731704493,2.0,75.47285686080235,OECD,208,/flags/tn_dk-flag.gif
+DJI,Djibouti,50.62862735008717,139.0,81.68916853688064,Africa,262,/flags/tn_dj-flag.gif
+DMA,Dominica,,,,LAC,212,/flags/tn_dm-flag.gif
+DOM,Dominican Republic,66.42426633079437,75.0,94.99907543225991,LAC,214,/flags/tn_do-flag.gif
+ECU,Ecuador,70.76907602814201,46.0,96.43754653743574,LAC,218,/flags/tn_ec-flag.gif
+EGY,"Egypt, Arab Rep.",63.47429483906567,97.0,98.70817724642907,MENA,818,/flags/tn_eg-flag.gif
+SLV,El Salvador,64.0931818420417,92.0,91.3947618339455,LAC,222,/flags/tn_sv-flag.gif
+GNQ,Equatorial Guinea,,,,Africa,226,/flags/tn_gq-flag.gif
+ERI,Eritrea,,,,Africa,232,/flags/tn_er-flag.gif
+EST,Estonia,78.31570590521919,16.0,82.67039411798527,OECD,233,/flags/tn_ee-flag.gif
+ETH,Ethiopia,53.23430661738189,128.0,99.049538150907,Africa,231,/flags/tn_et-flag.gif
+FJI,Fiji,,,,Oceania,242,/flags/tn_fj-flag.gif
+FIN,Finland,82.99873212163686,3.0,64.35659615689872,OECD,246,/flags/tn_fi-flag.gif
+MKD,Former Yugoslav Republic of Macedonia (FYROM),68.95264928457077,61.0,94.46193997817764,E. Europe & C. Asia,807,/flags/tn_mk-flag.gif
+FRA,France,81.21843765048345,5.0,62.24595188209596,OECD,250,/flags/tn_fr-flag.gif
+GAB,Gabon,62.8364047403114,100.0,97.29693920533737,Africa,266,/flags/tn_ga-flag.gif
+GMB,"Gambia, The",51.57683377287901,133.0,87.68495678156904,Africa,270,/flags/tn_gm-flag.gif
+GEO,Georgia,70.65215687751935,47.0,88.43106974107502,E. Europe & C. Asia,268,/flags/tn_ge-flag.gif
+DEU,Germany,82.28410044826948,4.0,67.46142710045878,OECD,276,/flags/tn_de-flag.gif
+GHA,Ghana,62.811685072956,101.0,97.288098640135,Africa,288,/flags/tn_gh-flag.gif
+GRC,Greece,70.64245191025464,48.0,63.5029504279336,OECD,300,/flags/tn_gr-flag.gif
+GRD,Grenada,,,,LAC,308,/flags/tn_gd-flag.gif
+GTM,Guatemala,58.237910444636654,117.0,95.4204276491131,LAC,320,/flags/tn_gt-flag.gif
+GIN,Guinea,52.11898031064071,131.0,93.29335035903271,Africa,324,/flags/tn_gn-flag.gif
+GNB,Guinea-Bissau,,,,Africa,624,/flags/tn_gw-flag.gif
+GUY,Guyana,61.90422247208423,104.0,77.9714338294469,LAC,328,/flags/tn_gy-flag.gif
+HTI,Haiti,49.16124359357881,145.0,97.64696713734406,LAC,332,/flags/tn_ht-flag.gif
+HND,Honduras,63.63600078324133,96.0,95.224422801114,LAC,340,/flags/tn_hn-flag.gif
+HUN,Hungary,74.95652652369299,26.0,80.92572277314257,OECD,348,/flags/tn_hu-flag.gif
+ISL,Iceland,79.74761064988877,10.0,71.36129259608659,OECD,352,/flags/tn_is-flag.gif
+IND,India,59.05022997887981,112.0,99.61423163418648,East & South Asia,356,/flags/tn_in-flag.gif
+IDN,Indonesia,62.836892165477984,99.0,97.76371485300116,East & South Asia,360,/flags/tn_id-flag.gif
+IRN,"Iran, Islamic Rep.",65.53513830040275,82.0,91.7389191223802,East & South Asia,364,/flags/tn_ir-flag.gif
+IRQ,Iraq,53.74996612923534,127.0,93.45374913806036,MENA,368,/flags/tn_iq-flag.gif
+IRL,Ireland,77.47047215193732,18.0,59.82525980034044,OECD,372,/flags/tn_ie-flag.gif
+ISR,Israel,71.84984726104376,41.0,58.990347355476345,OECD,376,/flags/tn_il-flag.gif
+ITA,Italy,74.21225979431874,29.0,63.11304050550038,OECD,380,/flags/tn_it-flag.gif
+JAM,Jamaica,65.8958972931839,81.0,91.69277375658736,LAC,388,/flags/tn_jm-flag.gif
+JPN,Japan,78.52135016287203,15.0,71.32684673373302,OECD,392,/flags/tn_jp-flag.gif
+JOR,Jordan,64.3587785229265,91.0,87.50068142343535,MENA,400,/flags/tn_jo-flag.gif
+KAZ,Kazakhstan,68.1344653303678,65.0,98.38457324995106,E. Europe & C. Asia,398,/flags/tn_kz-flag.gif
+KEN,Kenya,56.82598007828008,119.0,93.32941964832114,Africa,404,/flags/tn_ke-flag.gif
+KIR,Kiribati,,,,Oceania,296,/flags/tn_ki-flag.gif
+PRK,"Korea, Dem. Rep.",,,,East & South Asia,408,/flags/tn_kp-flag.gif
+KOR,"Korea, Rep.",77.40520683775715,19.0,71.62866607250649,OECD,410,/flags/tn_kr-flag.gif
+KWT,Kuwait,61.13697215539326,105.0,57.142857142857146,MENA,414,/flags/tn_kw-flag.gif
+KGZ,Kyrgyz Republic,70.33380067164575,51.0,95.4657006474178,E. Europe & C. Asia,417,/flags/tn_kg-flag.gif
+LAO,Lao PDR,60.63057636657237,108.0,99.23855879303302,East & South Asia,418,/flags/tn_la-flag.gif
+LVA,Latvia,74.74699595749127,27.0,69.96142407931053,OECD,428,/flags/tn_lv-flag.gif
+LBN,Lebanon,64.78816382221514,87.0,84.10369599750865,MENA,422,/flags/tn_lb-flag.gif
+LSO,Lesotho,51.514691536903456,135.0,92.30816028929569,Africa,426,/flags/tn_ls-flag.gif
+LBR,Liberia,48.29782881968092,149.0,96.87622298685218,Africa,430,/flags/tn_lr-flag.gif
+LBY,Libya,,,,MENA,434,/flags/tn_ly-flag.gif
+LIE,Liechtenstein,,,,E. Europe & C. Asia,438,/flags/tn_li-flag.gif
+LTU,Lithuania,72.89570349456906,36.0,71.62673717546359,E. Europe & C. Asia,440,/flags/tn_lt-flag.gif
+LUX,Luxembourg,76.09135571438551,22.0,46.227559414686304,OECD,442,/flags/tn_lu-flag.gif
+MDG,Madagascar,45.58573425920965,153.0,95.16505151740546,Africa,450,/flags/tn_mg-flag.gif
+MWI,Malawi,49.96524038220876,140.0,99.11734339361313,Africa,454,/flags/tn_mw-flag.gif
+MYS,Malaysia,70.00686999507029,55.0,90.16217818903606,East & South Asia,458,/flags/tn_my-flag.gif
+MDV,Maldives,,,,East & South Asia,462,/flags/tn_mv-flag.gif
+MLI,Mali,49.72232556200056,142.0,98.8366952108568,Africa,466,/flags/tn_ml-flag.gif
+MLT,Malta,74.19844264153903,30.0,61.67693503959665,E. Europe & C. Asia,470,/flags/tn_mt-flag.gif
+MHL,Marshall Islands,,,,Oceania,584,/flags/tn_mh-flag.gif
+MRT,Mauritania,51.57005004443096,134.0,96.23213474562532,Africa,478,/flags/tn_mr-flag.gif
+MUS,Mauritius,64.50102489548414,90.0,49.9002944184403,Africa,480,/flags/tn_mu-flag.gif
+MEX,Mexico,65.21060379191968,84.0,92.83598163416606,OECD,484,/flags/tn_mx-flag.gif
+FSM,"Micronesia, Fed. Sts.",,,,Oceania,583,/flags/tn_fm-flag.gif
+MDA,Moldova,74.51118700923418,28.0,98.28499995649992,E. Europe & C. Asia,498,/flags/tn_md-flag.gif
+MCO,Monaco,,,,E. Europe & C. Asia,492,/flags/tn_mc-flag.gif
+MNG,Mongolia,63.86130624106264,95.0,97.79559833193332,East & South Asia,496,/flags/tn_mn-flag.gif
+MNE,Montenegro,67.63247961206304,69.0,63.872251740135766,E. Europe & C. Asia,499,/flags/tn_me-flag.gif
+MAR,Morocco,66.26735447518112,77.0,95.78440295869989,MENA,504,/flags/tn_ma-flag.gif
+MOZ,Mozambique,50.65688703203631,138.0,96.09862941933709,Africa,508,/flags/tn_mz-flag.gif
+MMR,Myanmar,59.02789404727841,113.0,99.78702072105564,East & South Asia,104,/flags/tn_mm-flag.gif
+NAM,Namibia,58.92860400472125,114.0,85.04418956721592,Africa,516,/flags/tn_na-flag.gif
+NRU,Nauru,,,,Oceania,520,/flags/tn_nr-flag.gif
+NPL,Nepal,62.75439840433554,102.0,98.52791444066966,East & South Asia,524,/flags/tn_np-flag.gif
+NLD,Netherlands,79.46855731472479,11.0,47.91011823337711,OECD,528,/flags/tn_nl-flag.gif
+NZL,New Zealand,77.86031489226104,17.0,75.89684214618111,OECD,554,/flags/tn_nz-flag.gif
+NIC,Nicaragua,66.3806877464574,76.0,96.293947639087,LAC,558,/flags/tn_ni-flag.gif
+NER,Niger,48.51282867444446,148.0,97.64953065187036,Africa,562,/flags/tn_ne-flag.gif
+NGA,Nigeria,47.4773072834233,150.0,97.68846350513634,Africa,566,/flags/tn_ng-flag.gif
+NOR,Norway,81.17153482889933,6.0,51.56576002533802,OECD,578,/flags/tn_no-flag.gif
+OMN,Oman,63.905625553891525,94.0,80.74027428791351,MENA,512,/flags/tn_om-flag.gif
+PAK,Pakistan,54.885088927922695,126.0,99.3380641793996,East & South Asia,586,/flags/tn_pk-flag.gif
+PLW,Palau,,,,Oceania,585,/flags/tn_pw-flag.gif
+PAN,Panama,64.88940826024748,86.0,75.2012763929533,LAC,591,/flags/tn_pa-flag.gif
+PNG,Papua New Guinea,,,,Oceania,598,/flags/tn_pg-flag.gif
+PRY,Paraguay,67.20672725985575,72.0,95.88509826939404,LAC,600,/flags/tn_py-flag.gif
+PER,Peru,68.4482663021638,64.0,96.83028533249664,LAC,604,/flags/tn_pe-flag.gif
+PHL,Philippines,65.03054871427688,85.0,98.3499961919996,East & South Asia,608,/flags/tn_ph-flag.gif
+POL,Poland,73.6730365268689,32.0,84.2227876718045,OECD,616,/flags/tn_pl-flag.gif
+PRT,Portugal,74.02539887679612,31.0,69.89475557370905,OECD,620,/flags/tn_pt-flag.gif
+QAT,Qatar,60.84622627284212,106.0,66.06941401402392,MENA,634,/flags/tn_qa-flag.gif
+ROU,Romania,71.21843837226959,44.0,93.4887687751067,E. Europe & C. Asia,642,/flags/tn_ro-flag.gif
+RUS,Russian Federation,68.90254320558448,63.0,80.37122584088627,E. Europe & C. Asia,643,/flags/tn_ru-flag.gif
+RWA,Rwanda,56.09052265022997,120.0,97.62926781064505,Africa,646,/flags/tn_rw-flag.gif
+WSM,Samoa,,,,Oceania,882,/flags/tn_ws-flag.gif
+SMR,San Marino,,,,E. Europe & C. Asia,674,/flags/tn_sm-flag.gif
+STP,Sao Tome and Principe,,,,Africa,678,/flags/tn_st-flag.gif
+SAU,Saudi Arabia,62.91906280563106,98.0,83.37764170501207,MENA,682,/flags/tn_sa-flag.gif
+SEN,Senegal,57.172012651413375,118.0,96.66882140745078,Africa,686,/flags/tn_sn-flag.gif
+SRB,Serbia,72.13891768420329,40.0,75.89686842331993,E. Europe & C. Asia,688,/flags/tn_rs-flag.gif
+SYC,Seychelles,,,,Africa,690,/flags/tn_sc-flag.gif
+SLE,Sierra Leone,49.105445708505975,146.0,92.88028404221492,Africa,694,/flags/tn_sl-flag.gif
+SGP,Singapore,71.30895505923127,43.0,37.484918314676406,East & South Asia,702,/flags/tn_sg-flag.gif
+SVK,Slovak Republic,75.59680556163822,24.0,69.66021958007202,OECD,703,/flags/tn_sk-flag.gif
+SVN,Slovenia,79.97957613535766,8.0,68.58110804624997,OECD,705,/flags/tn_si-flag.gif
+SLB,Solomon Islands,,,,Oceania,90,/flags/tn_sb-flag.gif
+SOM,Somalia,,,,Africa,706,/flags/tn_so-flag.gif
+ZAF,South Africa,60.82659055884795,107.0,97.20476510009402,Africa,710,/flags/tn_za-flag.gif
+SSD,South Sudan,,,,Africa,728,/flags/tn_ss-flag.gif
+ESP,Spain,75.42458850041908,25.0,70.27296506343808,OECD,724,/flags/tn_es-flag.gif
+LKA,Sri Lanka,64.56120481172835,89.0,94.03754975807756,East & South Asia,144,/flags/tn_lk-flag.gif
+KNA,St. Kitts and Nevis,,,,LAC,659,/flags/tn_kn-flag.gif
+LCA,St. Lucia,,,,LAC,662,/flags/tn_lc-flag.gif
+VCT,St. Vincent and the Grenadines,,,,LAC,670,/flags/tn_vc-flag.gif
+SDN,Sudan,49.58023817516994,143.0,99.3323483036726,Africa,729,/flags/tn_sd-flag.gif
+SUR,Suriname,67.97213789433397,67.0,89.9811237338643,LAC,740,/flags/tn_sr-flag.gif
+SWZ,Swaziland,50.67225639495946,137.0,84.60246043146893,Africa,748,/flags/tn_sz-flag.gif
+SWE,Sweden,84.98389214211818,1.0,62.81310572029618,OECD,752,/flags/tn_se-flag.gif
+CHE,Switzerland,80.09285274409743,7.0,29.325401485809607,OECD,756,/flags/tn_ch-flag.gif
+SYR,Syrian Arab Republic,55.02225440323196,124.0,96.52016903973016,MENA,760,/flags/tn_sy-flag.gif
+TJK,Tajikistan,67.18115210631443,73.0,97.61085910980177,E. Europe & C. Asia,762,/flags/tn_tj-flag.gif
+TZA,Tanzania,55.147615617828535,123.0,98.51803919618844,Africa,834,/flags/tn_tz-flag.gif
+THA,Thailand,69.23750067029535,59.0,97.66525810329392,East & South Asia,764,/flags/tn_th-flag.gif
+TLS,Timor-Leste,,,,East & South Asia,626,/flags/tn_tl-flag.gif
+TGO,Togo,51.99981432452457,132.0,97.47132494765664,Africa,768,/flags/tn_tg-flag.gif
+TON,Tonga,,,,Oceania,776,/flags/tn_to-flag.gif
+TTO,Trinidad and Tobago,67.51331069556653,70.0,92.5442764498102,LAC,780,/flags/tn_tt-flag.gif
+TUN,Tunisia,66.15240026444474,78.0,92.9366813075183,MENA,788,/flags/tn_tn-flag.gif
+TUR,Turkey,65.95936474818858,79.0,90.04844460200717,OECD,792,/flags/tn_tr-flag.gif
+TKM,Turkmenistan,59.46827227605315,110.0,88.69590214610622,E. Europe & C. Asia,795,/flags/tn_tm-flag.gif
+TUV,Tuvalu,,,,Oceania,798,/flags/tn_tv-flag.gif
+UGA,Uganda,54.92567407449664,125.0,97.95901916872158,Africa,800,/flags/tn_ug-flag.gif
+UKR,Ukraine,72.33752296959743,39.0,91.7002560175038,E. Europe & C. Asia,804,/flags/tn_ua-flag.gif
+ARE,United Arab Emirates,69.2158625699712,60.0,53.14043654181995,MENA,784,/flags/tn_ae-flag.gif
+GBR,United Kingdom,78.66817408848081,14.0,47.82272168075144,OECD,826,/flags/tn_gb-flag.gif
+USA,United States,73.04964719759954,35.0,48.18250953869112,OECD,840,/flags/tn_us-flag.gif
+URY,Uruguay,70.41611188273681,49.0,90.43988358408798,LAC,858,/flags/tn_uy-flag.gif
+UZB,Uzbekistan,70.29198522572547,52.0,98.9503854509998,E. Europe & C. Asia,860,/flags/tn_uz-flag.gif
+VUT,Vanuatu,,,,Oceania,548,/flags/tn_vu-flag.gif
+VEN,"Venezuela, RB",64.00058111252036,93.0,97.45062490391922,LAC,862,/flags/tn_ve-flag.gif
+VNM,Vietnam,69.66959549001459,57.0,96.21564567577866,East & South Asia,704,/flags/tn_vn-flag.gif
+YEM,"Yemen, Rep.",45.657507620114885,152.0,93.36669118480098,MENA,887,/flags/tn_ye-flag.gif
+ZMB,Zambia,53.12874324493938,129.0,98.87472434504564,Africa,894,/flags/tn_zm-flag.gif
+ZWE,Zimbabwe,58.76005731870143,115.0,95.77304555406108,Africa,716,/flags/tn_zw-flag.gif

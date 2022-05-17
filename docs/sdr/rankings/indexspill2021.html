@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "hconcat": [{"mark": "bar", "encoding": {"x": {"field": "IndexScore", "scale": {"reverse": true}, "type": "quantitative"}, "y": {"axis": {"labels": false, "orient": "right", "title": ""}, "field": "Country", "type": "nominal"}}, "height": 900}, {"mark": {"type": "bar", "color": "green"}, "encoding": {"x": {"field": "SpilloverScore", "type": "quantitative"}, "y": {"axis": {"title": ""}, "field": "Country", "type": "nominal"}}, "height": 900}], "data": {"name": "data-539869ed3a57565cc1a6f2ddb9d4f369"}, "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json", "datasets": {"data-539869ed3a57565cc1a6f2ddb9d4f369": [{"Country": "Eastern Europe and Central Asia", "IndexScore": 71.40243453866395, "SpilloverScore": 87.61111111111111}, {"Country": "East and South Asia", "IndexScore": 65.74920364145659, "SpilloverScore": 97.6049}, {"Country": "Latin America and the Caribbean", "IndexScore": 68.57615420168067, "SpilloverScore": 95.056}, {"Country": "Middle East and North Africa", "IndexScore": 67.1000569327731, "SpilloverScore": 93.4373}, {"Country": "Oceania", "IndexScore": 50.07908725490197, "SpilloverScore": 100.0}, {"Country": "OECD members", "IndexScore": 77.20763330933772, "SpilloverScore": 70.07254545454545}, {"Country": "Small Island Developing States", "IndexScore": 62.46144649859945, "SpilloverScore": 79.2228888888889}, {"Country": "Sub-Saharan Africa", "IndexScore": 51.92681757703081, "SpilloverScore": 98.3582}, {"Country": "Low-income Countries", "IndexScore": 50.96062275910363, "SpilloverScore": 99.4631}, {"Country": "Lower-middle-income Countries", "IndexScore": 60.05158522408964, "SpilloverScore": 98.6247}, {"Country": "Upper-middle-income Countries", "IndexScore": 70.77288998599441, "SpilloverScore": 94.98839999999998}, {"Country": "High-income Countries", "IndexScore": 78.1316929971989, "SpilloverScore": 65.71190909090909}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

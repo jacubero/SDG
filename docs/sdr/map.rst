@@ -6,4 +6,4 @@ Interactive map
 .. currentmodule:: altair
 
 .. raw:: html
-   :file: map/overallscore.html
+   :file: map/overall2021.html
