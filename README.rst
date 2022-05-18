@@ -14,6 +14,15 @@ This website was designed to provide insights on the 17 Sustainable Development 
 .. _SDG: https://sdgs.un.org/goals
 .. _2030 Agenda for Sustainable Development : https://sdgs.un.org/2030agenda
 
+SDG data
+========
+
+[Get and preprocess data](SDRData.ipynb)
+
+Sustainable Development Report
+==============================
+
+
 Contributing
 ============
 
