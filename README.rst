@@ -22,12 +22,18 @@ SDG data
 * _Codebooks
 
 .. _Get Get data : preprocess/download.sh
-.. _Data Get data : preprocess/SDRData.ipynb
-.. _Preprocess Preprocess data : preprocess/SDRData.ipynb
+.. _Data Preprocess data : preprocess/SDRData.ipynb
+.. _Codebooks Get codebooks : preprocess/codebooks.ipynb
 
 Sustainable Development Report
 ==============================
 
+* _Rankings
+
+* _Map
+
+.. _Rankings Rankings : rankings/rankings.ipynb
+.. _Map Interactive map : map/map.ipynb
 
 Contributing
 ============

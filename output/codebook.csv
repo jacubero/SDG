@@ -1,0 +1,131 @@
+Indicator,IndCode
+Poverty headcount ratio at $1.90/day (%),sdg1_wpc
+Poverty headcount ratio at $3.20/day (%),sdg1_320pov
+Poverty rate after taxes and transfers (%),sdg1_oecdpov
+Prevalence of undernourishment (%),sdg2_undernsh
+Prevalence of stunting in children under 5 years of age (%),sdg2_stunting
+Prevalence of wasting in children under 5 years of age (%),sdg2_wasting
+"Prevalence of obesity, BMI ≥ 30 (% of adult population)",sdg2_obesity
+Human Trophic Level (best 2-3 worst),sdg2_trophic
+Cereal yield (tonnes per hectare of harvested land),sdg2_crlyld
+Sustainable Nitrogen Management Index (best 0-1.41 worst),sdg2_snmi
+Yield gap closure (% of potential yield),sdg2_yieldgap
+Exports of hazardous pesticides (tonnes per million population),sdg2_pestexp
+"Maternal mortality rate (per 100,000 live births) ",sdg3_matmort
+"Neonatal mortality rate (per 1,000 live births)",sdg3_neonat
+"Mortality rate, under-5 (per 1,000 live births)",sdg3_u5mort
+"Incidence of tuberculosis (per 100,000 population)",sdg3_tb
+"New HIV infections (per 1,000 uninfected population)",sdg3_hiv
+"Age-standardized death rate due to cardiovascular disease, cancer, diabetes, or chronic respiratory disease in adults aged 30–70 years (%)",sdg3_ncds
+"Age-standardized death rate attributable to household air pollution and ambient air pollution (per 100,000 population)",sdg3_pollmort
+"Traffic deaths (per 100,000 population)",sdg3_traffic
+Life expectancy at birth (years),sdg3_lifee
+"Adolescent fertility rate (births per 1,000 females aged 15 to 19)",sdg3_fertility
+Births attended by skilled health personnel (%),sdg3_births
+Surviving infants who received 2 WHO-recommended vaccines (%),sdg3_vac
+Universal health coverage (UHC) index of service coverage (worst 0-100 best),sdg3_uhc
+"Subjective well-being (average ladder score, worst 0-10 best)",sdg3_swb
+Gap in life expectancy at birth among regions (years),sdg3_region
+Gap in self-reported health status by income (percentage points),sdg3_incomeg
+Daily smokers (% of population aged 15 and over),sdg3_smoke
+Net primary enrollment rate (%),sdg4_primary
+Lower secondary completion rate (%),sdg4_second
+Literacy rate (% of population aged 15 to 24),sdg4_literacy
+Participation rate in pre-primary organized learning (% of children aged 4 to 6),sdg4_earlyedu
+Tertiary educational attainment (% of population aged 25 to 34),sdg4_tertiary
+PISA score (worst 0-600 best),sdg4_pisa
+Variation in science performance explained by socio-economic status (%),sdg4_socioec
+Underachievers in science (% of 15-year-olds) ,sdg4_science
+Resilient students in science (% of 15-year-olds),sdg4_resil
+Demand for family planning satisfied by modern methods (% of females aged 15 to 49),sdg5_familypl
+Ratio of female-to-male mean years of education received (%),sdg5_edat
+Ratio of female-to-male labor force participation rate (%),sdg5_lfpr
+Seats held by women in national parliament (%),sdg5_parl
+Gender wage gap (% of male median wage),sdg5_paygap
+Gender gap in time spent doing unpaid work (minutes/day),sdg5_unpaid
+Population using at least basic drinking water services (%),sdg6_water
+Population using at least basic sanitation services (%),sdg6_sanita
+Freshwater withdrawal (% of available freshwater resources),sdg6_freshwat
+Anthropogenic wastewater that receives treatment (%),sdg6_wastewat
+Scarce water consumption embodied in imports (m³/capita),sdg6_scarcew
+Population using safely managed water services (%),sdg6_safewat
+Population using safely managed sanitation services (%),sdg6_safesan
+Population with access to electricity (%),sdg7_elecac
+Population with access to clean fuels and technology for cooking (%),sdg7_cleanfuel
+CO₂ emissions from fuel combustion for electricity and heating per total electricity output (MtCO₂/TWh),sdg7_co2twh
+Share of renewable energy in total primary energy supply (%),sdg7_ren
+Adjusted GDP growth (%),sdg8_adjgrowth
+"Victims of modern slavery (per 1,000 population)",sdg8_slavery
+Adults with an account at a bank or other financial institution or with a mobile-money-service provider (% of population aged 15 or over),sdg8_accounts
+Unemployment rate (% of total labor force),sdg8_unemp
+Fundamental labor rights are effectively guaranteed (worst 0–1 best),sdg8_rights
+"Fatal work-related accidents embodied in imports (per 100,000 population)",sdg8_impacc
+Employment-to-population ratio (%),sdg8_empop
+"Youth not in employment, education or training (NEET) (% of population aged 15 to 29)",sdg8_yneet
+Population using the internet (%),sdg9_intuse
+Mobile broadband subscriptions (per 100 population),sdg9_mobuse
+Logistics Performance Index: Quality of trade and transport-related infrastructure (worst 1-5 best),sdg9_lpi
+The Times Higher Education Universities Ranking: Average score of top 3 universities (worst 0-100 best),sdg9_qs
+"Scientific and technical journal articles (per 1,000 population)",sdg9_articles
+Expenditure on research and development (% of GDP),sdg9_rdex
+"Researchers (per 1,000 employed population)",sdg9_rdres
+Triadic patent families filed (per million population),sdg9_patents
+Gap in internet access by income (percentage points),sdg9_netacc
+Female share of graduates from STEM fields at the tertiary level (%),sdg9_womensci
+Gini coefficient adjusted for top income,sdg10_adjgini
+Palma ratio,sdg10_palma
+Elderly poverty rate (% of population aged 66 or over),sdg10_elder
+Proportion of urban population living in slums (%),sdg11_slums
+Annual mean concentration of particulate matter of less than 2.5 microns in diameter (PM2.5) (μg/m³),sdg11_pm25
+"Access to improved water source, piped (% of urban population)",sdg11_pipedwat
+Satisfaction with public transport (%),sdg11_transport
+Population with rent overburden (%),sdg11_rentover
+Municipal solid waste (kg/capita/day),sdg12_msw
+Electronic waste (kg/capita),sdg12_ewaste
+Production-based SO₂ emissions (kg/capita),sdg12_so2prod
+SO₂ emissions embodied in imports (kg/capita) ,sdg12_so2import
+Production-based nitrogen emissions (kg/capita),sdg12_prodnitro
+Nitrogen emissions embodied in imports (kg/capita),sdg12_reacnitro
+Non-recycled municipal solid waste (kg/capita/day),sdg12_mswrecycl
+CO₂ emissions from fossil fuel combustion and cement production (tCO2/capita),sdg13_co2gcp
+CO₂ emissions embodied in imports (tCO₂/capita),sdg13_co2import
+CO₂ emissions embodied in fossil fuel exports (kg/capita),sdg13_co2export
+"Carbon Pricing Score at EUR60/tCO₂ (%, worst 0-100 best)",sdg13_ecr
+Mean area that is protected in marine sites important to biodiversity (%) ,sdg14_cpma
+Ocean Health Index: Clean Waters score (worst 0-100 best),sdg14_cleanwat
+Fish caught from overexploited or collapsed stocks (% of total catch),sdg14_fishstocks
+Fish caught by trawling or dredging (%),sdg14_trawl
+Fish caught that are then discarded (%),sdg14_discard
+Marine biodiversity threats embodied in imports (per million population),sdg14_biomar
+Mean area that is protected in terrestrial sites important to biodiversity (%),sdg15_cpta
+Mean area that is protected in freshwater sites important to biodiversity (%),sdg15_cpfa
+Red List Index of species survival (worst 0-1 best) ,sdg15_redlist
+"Permanent deforestation (% of forest area, 5-year average)",sdg15_forchg
+Terrestrial and freshwater biodiversity threats embodied in imports (per million population),sdg15_biofrwter
+"Homicides (per 100,000 population)",sdg16_homicides
+Unsentenced detainees (% of prison population),sdg16_detain
+Population who feel safe walking alone at night in the city or area where they live (%),sdg16_safe
+Property Rights (worst 1-7 best),sdg16_prs
+Birth registrations with civil authority (% of children under age 5),sdg16_u5reg
+Corruption Perception Index (worst 0-100 best),sdg16_cpi
+Children involved in child labor (% of population aged 5 to 14),sdg16_clabor
+"Exports of major conventional weapons (TIV constant million USD per 100,000 population)",sdg16_weaponsexp
+Press Freedom Index (best 0-100 worst),sdg16_rsf
+Access to and affordability of justice (worst 0–1 best),sdg16_justice
+"Persons held in prison (per 100,000 population)",sdg16_prison
+Government spending on health and education (% of GDP),sdg17_govex
+"For high-income and all OECD DAC countries: International concessional public finance, including official development assistance (% of GNI)",sdg17_oda
+Other countries: Government revenue excluding grants (% of GDP),sdg17_govrev
+Corporate Tax Haven Score (best 0-100 worst),sdg17_cohaven
+Financial Secrecy Score (best 0-100 worst),sdg17_secrecy
+Statistical Performance Index (worst 0-100 best),sdg17_statperf
+Energy-related CO₂ emissions (tCO₂/capita),sdg13_co2pc
+Shifted profits of multinationals (US$ billion),sdg17_sprofits
+Sustainable Nitrogen Management Index,sdg2_nue
+Imported groundwater depletion (m3/year/capita),sdg6_gwd
+Production-based SO2 emissions (kg/capita),sdg12_prodso2
+Imported SO2 emissions (kg/capita) ,sdg12_so2
+Energy-related CO2 emissions per capita (tCO2/capita),sdg13_co2pc
+"People affected by climate-related disasters (per 100,000 population)",sdg13_affected
+Imported biodiversity threats (threats per million population),sdg15_impbiothr
+Tax Haven Score (best 0-5 worst),sdg17_taxhaven
