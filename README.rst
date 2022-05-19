@@ -5,9 +5,7 @@ Sustainable Development Goals
 .. image:: https://readthedocs.org/projects/sdganalytics/badge/?version=latest
   :target: https://sdganalytics.readthedocs.io/en/latest/?badge=latest
   :alt: Documentation Status
-.. image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/SDG/Index.ipynb
-  :alt: Google colab notebooks
+
 
 This website was designed to provide insights on the 17 Sustainable Development Goals (SDG_) defined by United Nations. The Sustainable Development Goals (SDGs) are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the `2030 Agenda for Sustainable Development`_.
 
@@ -17,7 +15,15 @@ This website was designed to provide insights on the 17 Sustainable Development 
 SDG data
 ========
 
-[Get and preprocess data](preprocess/SDRData.ipynb)
+* _Get
+
+* _Data
+
+* _Codebooks
+
+.. _Get Get data : preprocess/download.sh
+.. _Data Get data : preprocess/SDRData.ipynb
+.. _Preprocess Preprocess data : preprocess/SDRData.ipynb
 
 Sustainable Development Report
 ==============================
