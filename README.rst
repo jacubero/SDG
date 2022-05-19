@@ -15,11 +15,11 @@ This website was designed to provide insights on the 17 Sustainable Development 
 SDG data
 ========
 
-* _Get
+* Get_
 
-* _Data
+* Data_
 
-* _Codebooks
+* Codebooks_
 
 .. _Get Get data : preprocess/download.sh
 .. _Data Preprocess data : preprocess/SDRData.ipynb
@@ -28,9 +28,9 @@ SDG data
 Sustainable Development Report
 ==============================
 
-* _Rankings
+* Rankings_
 
-* _Map
+* Map_
 
 .. _Rankings Rankings : rankings/rankings.ipynb
 .. _Map Interactive map : map/map.ipynb
