@@ -1,194 +1,194 @@
 Country Code ISO3,Country,IndexScore,IndexRank,SpilloverScore,Regions used for the SDR,id,image
-AFG,Afghanistan,49.649155966526976,153,94.51158731639808,E. Europe & C. Asia,4,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8604C48B0>
-AGO,Angola,51.32035798527132,149,98.59815945061138,Africa,24,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8604C4940>
-ALB,Albania,70.2726472281819,60,89.68429938372053,E. Europe & C. Asia,8,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x36 at 0x7FC8604C50C0>
-AND,Andorra,,0,,E. Europe & C. Asia,20,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x35 at 0x7FC8604C49A0>
-ARE,United Arab Emirates,69.7089190637932,65,47.42736706313431,MENA,784,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC863ED35E0>
-ARG,Argentina,72.35040744534194,45,97.0156223367652,LAC,32,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8604701C0>
-ARM,Armenia,68.7731836870074,75,93.0972969506126,E. Europe & C. Asia,51,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860470E20>
-ATG,Antigua and Barbuda,,0,,LAC,28,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860470310>
-AUS,Australia,73.88662918142523,38,61.19290691269566,OECD,36,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860470970>
-AUT,Austria,81.07370340756927,5,63.22667825056149,OECD,40,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8604724A0>
-AZE,Azerbaijan,70.4589040399551,59,97.46343844446228,E. Europe & C. Asia,31,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8604C4550>
-BDI,Burundi,51.54663075252328,145,99.34921311696463,Africa,108,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8604C4610>
-BEL,Belgium,78.89166182153363,16,58.4873909306381,OECD,56,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x43 at 0x7FC8604C44C0>
-BEN,Benin,50.85380075588766,151,96.57167217896388,Africa,204,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8604C4A90>
-BFA,Burkina Faso,52.403842035707214,141,96.6808092058662,Africa,854,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8604C4760>
-BGD,Bangladesh,60.87548938804758,116,98.00283666625045,East & South Asia,50,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FC8604C4880>
-BGR,Bulgaria,74.51905253135921,36,90.1475488461348,E. Europe & C. Asia,100,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8604C5210>
-BHR,Bahrain,68.71941398293256,76,78.01397535328668,MENA,48,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FC8604C59C0>
-BHS,"Bahamas, The",,0,,LAC,44,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8604C5420>
-BIH,Bosnia and Herzegovina,69.3887343215239,69,96.36619406921209,E. Europe & C. Asia,70,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8604C4E80>
-BLR,Belarus,77.44476174024102,23,91.91318279028336,E. Europe & C. Asia,112,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8604C4820>
-BLZ,Belize,62.54881785266509,109,91.8059029718926,LAC,84,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8604C4BB0>
-BOL,Bolivia,68.39317353007405,80,98.82300493841046,LAC,68,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8604C58A0>
-BRA,Brazil,70.61576131365462,57,97.5916132911646,LAC,76,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x36 at 0x7FC8604C58D0>
-BRB,Barbados,,0,,LAC,52,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860B34FD0>
-BRN,Brunei Darussalam,,0,,East & South Asia,96,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8605CF100>
-BTN,Bhutan,67.57532536836864,84,88.72041318658391,East & South Asia,64,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FC8605CD1E0>
-BWA,Botswana,59.76542697969586,120,73.15868465436517,Africa,72,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860472E00>
-CAF,Central African Republic,39.07514635713634,162,99.0665324561741,Africa,140,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=50x33 at 0x7FC860472950>
-CAN,Canada,77.88742776434424,20,73.403647771474,OECD,124,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860473A30>
-CHE,Switzerland,78.84028712414502,17,32.74370469340804,OECD,756,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x50 at 0x7FC860473070>
-CHL,Chile,75.611488810501,31,97.44566451683424,OECD,152,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8604707F0>
-CHN,China,73.21140883601588,39,96.12329342453012,East & South Asia,156,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FC860473D00>
-CIV,Cote d'Ivoire,55.70177717403045,129,96.98847542314095,Africa,384,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FC8604703D0>
-CMR,Cameroon,56.0211888252482,127,97.9591684050054,Africa,120,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860472260>
-COD,"Congo, Dem. Rep.",44.9455781451704,160,99.23133261980504,Africa,180,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x38 at 0x7FC8604738E0>
-COG,"Congo, Rep.",54.21752078581366,132,98.44020972872828,Africa,178,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860473EE0>
-COL,Colombia,69.57082192796051,67,94.30775326131425,LAC,170,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860471660>
-COM,Comoros,52.98090124529588,137,99.38258006480488,Africa,174,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860473640>
-CPV,Cabo Verde,65.0509048248199,96,89.72263185708881,Africa,132,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860472AA0>
-CRI,Costa Rica,74.97505187674751,33,90.31865585343265,LAC,188,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x32 at 0x7FC860473EB0>
-CUB,Cuba,70.8191264159632,56,96.25279191133554,LAC,192,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860473340>
-CYP,Cyprus,70.14401801781607,61,49.55259043362464,E. Europe & C. Asia,196,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FC860470B80>
-CZE,Czech Republic,80.73623295798889,7,79.7552846599583,OECD,203,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8604720B0>
-DEU,Germany,81.06721263382096,6,67.8041404777676,OECD,276,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x31 at 0x7FC860471F90>
-DJI,Djibouti,51.3623682332867,148,83.6517464692374,Africa,262,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860471A80>
-DMA,Dominica,,0,,LAC,212,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860471870>
-DNK,Denmark,85.21777289472355,1,75.96162492840674,OECD,208,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x38 at 0x7FC8604716C0>
-DOM,Dominican Republic,69.76190865647757,64,95.14282166143944,LAC,214,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FC860471A20>
-DZA,Algeria,71.09970575644881,53,96.953327390731,MENA,12,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860472FE0>
-ECU,Ecuador,72.29118215582369,46,96.5446126146888,LAC,218,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x26 at 0x7FC860473940>
-EGY,"Egypt, Arab Rep.",66.20609093823161,92,98.67877830733264,MENA,818,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860472BC0>
-ERI,Eritrea,,0,,Africa,232,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860472A10>
-ESP,Spain,77.84050474283765,21,70.10204803833439,OECD,724,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860472380>
-EST,Estonia,80.22006451483878,10,82.88260657368602,OECD,233,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860472620>
-ETH,Ethiopia,53.24991421975776,135,99.12088274301416,Africa,231,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x29 at 0x7FC8604724D0>
-FIN,Finland,82.82204663350274,3,67.10450610968013,OECD,246,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x31 at 0x7FC8604725F0>
-FJI,Fiji,70.07084208360426,62,94.38014503155716,Oceania,242,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8604727D0>
-FRA,France,81.4933991462154,4,61.48619281478956,OECD,250,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860230040>
-FSM,"Micronesia, Fed. Sts.",,0,,Oceania,583,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FC8602300D0>
-GAB,Gabon,64.76491308522095,99,97.08800261295352,Africa,266,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860230280>
-GBR,United Kingdom,79.3759676753142,13,50.71740333946088,OECD,826,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8602303A0>
-GEO,Georgia,68.91341134165594,73,89.09424245357883,E. Europe & C. Asia,268,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8602304C0>
-GHA,Ghana,63.80165877668611,104,97.52372853510852,Africa,288,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8602305E0>
-GIN,Guinea,52.81496328702183,138,94.07350631281956,Africa,324,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860230700>
-GMB,"Gambia, The",55.00110935324603,131,89.33383359771743,Africa,270,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860230820>
-GNB,Guinea-Bissau,,0,,Africa,624,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860230940>
-GNQ,Equatorial Guinea,,0,,Africa,226,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860230A60>
-GRC,Greece,71.40963725587672,50,64.63883206628617,OECD,300,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x32 at 0x7FC860230B80>
-GRD,Grenada,,0,,LAC,308,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x29 at 0x7FC860230CA0>
-GTM,Guatemala,59.64725881223599,122,95.72085135485358,LAC,320,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860230DC0>
-GUY,Guyana,61.40777356628694,114,64.96354458602778,LAC,328,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860230EE0>
-HND,Honduras,63.41418904594347,107,95.3887350343917,LAC,340,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860231000>
-HRV,Croatia,77.79186019687131,22,85.88880362059942,E. Europe & C. Asia,191,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860231120>
-HTI,Haiti,48.435080656033016,156,97.90447316118518,LAC,332,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860231240>
-HUN,Hungary,76.88659376872938,25,81.91659157006148,OECD,348,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860231360>
-IDN,Indonesia,64.19349115538395,102,97.73813798201051,East & South Asia,360,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860231480>
-IND,India,61.07688833518631,115,99.41030060044906,East & South Asia,356,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8602315A0>
-IRL,Ireland,78.21597902394831,19,61.55409564576483,OECD,372,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8602316C0>
-IRN,"Iran, Islamic Rep.",70.48640871010336,58,92.34523490189405,MENA,364,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x28 at 0x7FC8602317E0>
-IRQ,Iraq,60.792815590367766,117,93.96880770043556,MENA,368,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860231900>
-ISL,Iceland,79.20300118621701,14,70.35544692082334,OECD,352,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x36 at 0x7FC860231A20>
-ISR,Israel,71.52939234507471,49,62.03211427261426,OECD,376,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x36 at 0x7FC860231B40>
-ITA,Italy,75.79012802006855,30,65.62239342901063,OECD,380,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860231C60>
-JAM,Jamaica,68.79748022775873,74,92.2403623578047,LAC,388,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860231D80>
-JOR,Jordan,68.08526388913299,81,88.4601077327763,MENA,400,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860231EA0>
-JPN,Japan,78.91741824397424,15,72.13475288812307,OECD,392,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860231FC0>
-KAZ,Kazakhstan,68.70933209514025,77,98.01162342450056,E. Europe & C. Asia,398,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8602320E0>
-KEN,Kenya,57.02821663819345,125,92.45762367021186,Africa,404,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860232200>
-KGZ,Kyrgyz Republic,71.6172640709286,48,95.38910208578484,E. Europe & C. Asia,417,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860232320>
-KHM,Cambodia,61.78418151263683,112,98.62636364165368,East & South Asia,116,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860232440>
-KIR,Kiribati,,0,,Oceania,296,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860232560>
-KNA,St. Kitts and Nevis,,0,,LAC,659,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860232680>
-KOR,"Korea, Rep.",78.3318154241419,18,72.32664778366205,OECD,410,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FC8602327A0>
-KWT,Kuwait,63.51173900331314,106,50.01186208888744,MENA,414,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8602328C0>
-LAO,Lao PDR,62.02906674130222,111,99.21368932459907,East & South Asia,418,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8602329E0>
-LBN,Lebanon,65.66628291192977,94,84.16125114526021,MENA,422,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860232B00>
-LBR,Liberia,48.18253992937193,157,97.22145427776891,Africa,430,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x26 at 0x7FC860232C20>
-LBY,Libya,,0,,MENA,434,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860232D40>
-LCA,St. Lucia,,0,,LAC,662,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860232E60>
-LIE,Liechtenstein,,0,,E. Europe & C. Asia,438,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860232F80>
-LKA,Sri Lanka,65.84124908240369,93,94.18410002986928,East & South Asia,144,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8602330A0>
-LSO,Lesotho,50.9427933174616,150,92.48534468971768,Africa,426,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8602331C0>
-LTU,Lithuania,75.10327206588286,32,73.11824307141154,OECD,440,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8602332E0>
-LUX,Luxembourg,74.78446077507982,34,41.62321063290717,OECD,442,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FC860233400>
-LVA,Latvia,77.1349779957184,24,71.86532721127277,OECD,428,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860233520>
-MAR,Morocco,69.06972965847484,72,96.12648519290818,MENA,504,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860233640>
-MCO,Monaco,,0,,E. Europe & C. Asia,492,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860233760>
-MDA,Moldova,74.4097740391286,37,98.45402270454184,E. Europe & C. Asia,498,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860233880>
-MDG,Madagascar,46.69895506949963,158,95.77128228926496,Africa,450,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8602339A0>
-MDV,Maldives,72.12313036807359,47,69.56680434562253,East & South Asia,462,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860233AC0>
-MEX,Mexico,68.50928202779325,78,93.33169265586598,OECD,484,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x29 at 0x7FC860233BE0>
-MHL,Marshall Islands,,0,,Oceania,584,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860233D00>
-MKD,North Macedonia,69.3839221034339,70,94.77697434745475,E. Europe & C. Asia,807,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860233E20>
-MLI,Mali,50.21473317751509,152,98.91793663081748,Africa,466,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860233F40>
-MLT,Malta,76.10531233049193,28,62.93636110693904,E. Europe & C. Asia,470,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8601100A0>
-MMR,Myanmar,62.1785335363315,110,99.81104534725192,East & South Asia,104,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x28 at 0x7FC8601101C0>
-MNE,Montenegro,67.25013397418648,87,64.97948094224131,E. Europe & C. Asia,499,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8601102E0>
-MNG,Mongolia,64.69385863543435,100,97.32998510326192,East & South Asia,496,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860110400>
-MOZ,Mozambique,53.03355690479534,136,96.538590704548,Africa,508,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860110520>
-MRT,Mauritania,53.32943929405303,134,96.40477357680749,Africa,478,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8601105B0>
-MUS,Mauritius,63.58915857440773,105,48.605726896911534,Africa,480,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860110760>
-MWI,Malawi,51.38114315209315,146,99.01999506708567,Africa,454,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860110880>
-MYS,Malaysia,69.55789055551838,68,89.09615099971695,East & South Asia,458,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8601109A0>
-NAM,Namibia,59.86720464887587,119,85.46284853367223,Africa,516,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860110AC0>
-NER,Niger,49.44801207358358,154,97.9024236360562,Africa,562,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860110BE0>
-NGA,Nigeria,46.4057917499608,159,97.84634922937732,Africa,566,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860110D00>
-NIC,Nicaragua,67.94340864347802,82,96.5204282976354,LAC,558,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860110E20>
-NLD,Netherlands,80.37856418555526,9,49.57804397180826,OECD,528,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860110F40>
-NOR,Norway,80.66082439652112,8,53.43025347961051,OECD,578,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FC860111060>
-NPL,Nepal,63.934703982277625,103,98.54026881013029,East & South Asia,524,<PIL.GifImagePlugin.GifImageFile image mode=P size=38x50 at 0x7FC860111180>
-NRU,Nauru,,0,,Oceania,520,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8601112A0>
-NZL,New Zealand,79.49848438583408,11,78.10110066376558,OECD,554,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8601113C0>
-OMN,Oman,67.85528519956368,83,79.0007616241496,MENA,512,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860111450>
-PAK,Pakistan,55.56603409119187,130,99.36287598262852,East & South Asia,586,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860111600>
-PAN,Panama,66.30655957204621,90,77.16991730831872,LAC,591,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860111690>
-PER,Peru,71.1857253240219,51,96.8683507319574,LAC,604,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860111840>
-PHL,Philippines,64.93638893917121,97,98.31132345905272,East & South Asia,608,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860111960>
-PLW,Palau,,0,,Oceania,585,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860111A80>
-PNG,Papua New Guinea,51.61521377109302,143,99.2097766087937,Oceania,598,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x38 at 0x7FC860111BA0>
-POL,Poland,75.92808894265113,29,84.86531620478065,OECD,616,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x31 at 0x7FC860111CC0>
-PRK,"Korea, Dem. Rep.",,0,,East & South Asia,408,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860111DE0>
-PRT,Portugal,76.42595361836092,26,70.85665227133228,OECD,620,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FC860111E70>
-PRY,Paraguay,67.51844679313412,86,95.56418731887936,LAC,600,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860112020>
-QAT,Qatar,66.2791089151293,91,66.00409019295776,MENA,634,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860112140>
-ROU,Romania,72.7307552387194,42,93.7854621400765,E. Europe & C. Asia,642,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860112260>
-RUS,Russian Federation,70.94033861588618,55,82.24270883213843,E. Europe & C. Asia,643,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860112380>
-RWA,Rwanda,56.02193655175769,126,97.63484929963852,Africa,646,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x23 at 0x7FC8601124A0>
-SAU,Saudi Arabia,64.83798684316423,98,82.29487815917757,MENA,682,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8601125C0>
-SDN,Sudan,51.36317921378709,147,99.4157668066339,Africa,729,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8601126E0>
-SEN,Senegal,57.30125573352039,124,96.9470041746836,Africa,686,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860112800>
-SGP,Singapore,69.6157177776083,66,33.541953978173424,East & South Asia,702,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860112920>
-SLB,Solomon Islands,,0,,Oceania,90,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8601129B0>
-SLE,Sierra Leone,49.24040722157241,155,93.70430371603376,Africa,694,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860112B60>
-SLV,El Salvador,66.73287769693358,89,91.56593555164824,LAC,222,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x32 at 0x7FC860112C80>
-SMR,San Marino,,0,,E. Europe & C. Asia,674,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860112DA0>
-SOM,Somalia,,0,,Africa,706,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860112EC0>
-SRB,Serbia,72.48658053554539,44,77.5845463875137,E. Europe & C. Asia,688,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860112FE0>
-SSD,South Sudan,,0,,Africa,728,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860113100>
-STP,Sao Tome and Principe,65.48414011973789,95,90.31267013709672,Africa,678,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860113220>
-SUR,Suriname,67.03353939779355,88,89.89353226771247,LAC,740,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860113340>
-SVK,Slovak Republic,76.21470143953968,27,71.39443873706486,OECD,703,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860113460>
-SVN,Slovenia,79.40811996897655,12,69.98239619292552,OECD,705,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860113580>
-SWE,Sweden,84.9923505740441,2,67.7249176878287,OECD,752,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x32 at 0x7FC8601136A0>
-SWZ,Eswatini,51.68794410229367,142,85.21033251927541,Africa,748,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8601137C0>
-SYC,Seychelles,,0,,Africa,690,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8601138E0>
-SYR,Syrian Arab Republic,58.12741643688141,123,96.81622064440128,MENA,760,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x32 at 0x7FC860113A00>
-TCD,Chad,42.78711763710128,161,99.51790520558598,Africa,148,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860113B20>
-TGO,Togo,51.5963829858639,144,97.71369636793756,Africa,768,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860113C40>
-THA,Thailand,73.00058109655703,40,97.21486953220584,East & South Asia,764,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860113D60>
-TJK,Tajikistan,69.22656480898894,71,97.64958648730187,E. Europe & C. Asia,762,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860113E80>
-TKM,Turkmenistan,64.25774761634867,101,90.522231020873,E. Europe & C. Asia,795,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860113FA0>
-TLS,Timor-Leste,,0,,East & South Asia,626,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860010100>
-TON,Tonga,,0,,Oceania,776,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860010220>
-TTO,Trinidad and Tobago,67.55632494325059,85,92.04637837244266,LAC,780,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FC8600102B0>
-TUN,Tunisia,69.98799710837255,63,93.17533726331312,MENA,788,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860010460>
-TUR,Turkey,68.48880697949511,79,90.75059379526824,OECD,792,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860010580>
-TUV,Tuvalu,,0,,Oceania,798,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC8600106A0>
-TZA,Tanzania,55.82068539662198,128,98.63710031930373,Africa,834,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8600107C0>
-UGA,Uganda,52.57466297593558,140,98.0920684129268,Africa,800,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FC8600108E0>
-UKR,Ukraine,72.81392877924071,41,94.12614467367764,E. Europe & C. Asia,804,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860010970>
-URY,Uruguay,72.55117803429054,43,90.48111934418372,LAC,858,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FC860010B20>
-USA,United States,74.5196102840175,35,51.08304579265401,OECD,840,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x26 at 0x7FC860010C40>
-UZB,Uzbekistan,71.13055053853537,52,98.9522579468718,E. Europe & C. Asia,860,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860010D60>
-VCT,St. Vincent and the Grenadines,,0,,LAC,670,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860010E80>
-VEN,"Venezuela, RB",63.05439028317698,108,97.48409534923302,LAC,862,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FC860010FA0>
-VNM,Vietnam,71.08528125073332,54,96.36876774922904,East & South Asia,704,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC8600110C0>
-VUT,Vanuatu,59.874248640183694,118,92.9730025441429,Oceania,548,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x27 at 0x7FC8600111E0>
-WSM,Samoa,,0,,Oceania,882,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860011300>
-YEM,"Yemen, Rep.",53.70207319275844,133,94.10956365430016,MENA,887,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860011420>
-ZAF,South Africa,61.48093271752385,113,97.1034840924496,Africa,710,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FC860011540>
-ZMB,Zambia,52.61508404984109,139,98.80372595488517,Africa,894,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FC860011660>
-ZWE,Zimbabwe,59.67352400536655,121,96.09614794059348,Africa,716,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FC860011780>
+AFG,Afghanistan,49.649155966526976,153,94.51158731639808,E. Europe & C. Asia,4,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134317490>
+AGO,Angola,51.32035798527132,149,98.59815945061138,Africa,24,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134316E00>
+ALB,Albania,70.2726472281819,60,89.68429938372053,E. Europe & C. Asia,8,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x36 at 0x7FF1343141F0>
+AND,Andorra,,0,,E. Europe & C. Asia,20,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x35 at 0x7FF1343656F0>
+ARE,United Arab Emirates,69.7089190637932,65,47.42736706313431,MENA,784,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF134366A10>
+ARG,Argentina,72.35040744534194,45,97.0156223367652,LAC,32,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134367E80>
+ARM,Armenia,68.7731836870074,75,93.0972969506126,E. Europe & C. Asia,51,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF134364A00>
+ATG,Antigua and Barbuda,,0,,LAC,28,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1343668F0>
+AUS,Australia,73.88662918142523,38,61.19290691269566,OECD,36,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF134364970>
+AUT,Austria,81.07370340756927,5,63.22667825056149,OECD,40,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134367E50>
+AZE,Azerbaijan,70.4589040399551,59,97.46343844446228,E. Europe & C. Asia,31,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF134367A60>
+BDI,Burundi,51.54663075252328,145,99.34921311696463,Africa,108,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134366800>
+BEL,Belgium,78.89166182153363,16,58.4873909306381,OECD,56,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x43 at 0x7FF134315C90>
+BEN,Benin,50.85380075588766,151,96.57167217896388,Africa,204,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134315EA0>
+BFA,Burkina Faso,52.403842035707214,141,96.6808092058662,Africa,854,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1343664D0>
+BGD,Bangladesh,60.87548938804758,116,98.00283666625045,East & South Asia,50,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FF134365150>
+BGR,Bulgaria,74.51905253135921,36,90.1475488461348,E. Europe & C. Asia,100,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1343653F0>
+BHR,Bahrain,68.71941398293256,76,78.01397535328668,MENA,48,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FF134365A20>
+BHS,"Bahamas, The",,0,,LAC,44,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF134366950>
+BIH,Bosnia and Herzegovina,69.3887343215239,69,96.36619406921209,E. Europe & C. Asia,70,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF134365C90>
+BLR,Belarus,77.44476174024102,23,91.91318279028336,E. Europe & C. Asia,112,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF134365570>
+BLZ,Belize,62.54881785266509,109,91.8059029718926,LAC,84,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134367220>
+BOL,Bolivia,68.39317353007405,80,98.82300493841046,LAC,68,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134367190>
+BRA,Brazil,70.61576131365462,57,97.5916132911646,LAC,76,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x36 at 0x7FF134364C70>
+BRB,Barbados,,0,,LAC,52,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134364820>
+BRN,Brunei Darussalam,,0,,East & South Asia,96,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF134365CC0>
+BTN,Bhutan,67.57532536836864,84,88.72041318658391,East & South Asia,64,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FF134366050>
+BWA,Botswana,59.76542697969586,120,73.15868465436517,Africa,72,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134365C00>
+CAF,Central African Republic,39.07514635713634,162,99.0665324561741,Africa,140,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=50x33 at 0x7FF134366AA0>
+CAN,Canada,77.88742776434424,20,73.403647771474,OECD,124,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF134365C60>
+CHE,Switzerland,78.84028712414502,17,32.74370469340804,OECD,756,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x50 at 0x7FF134366F50>
+CHL,Chile,75.611488810501,31,97.44566451683424,OECD,152,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134365930>
+CHN,China,73.21140883601588,39,96.12329342453012,East & South Asia,156,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FF134367610>
+CIV,Cote d'Ivoire,55.70177717403045,129,96.98847542314095,Africa,384,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FF134365120>
+CMR,Cameroon,56.0211888252482,127,97.9591684050054,Africa,120,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134366020>
+COD,"Congo, Dem. Rep.",44.9455781451704,160,99.23133261980504,Africa,180,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x38 at 0x7FF1343675B0>
+COG,"Congo, Rep.",54.21752078581366,132,98.44020972872828,Africa,178,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134366FE0>
+COL,Colombia,69.57082192796051,67,94.30775326131425,LAC,170,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1343658D0>
+COM,Comoros,52.98090124529588,137,99.38258006480488,Africa,174,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134365180>
+CPV,Cabo Verde,65.0509048248199,96,89.72263185708881,Africa,132,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134364E20>
+CRI,Costa Rica,74.97505187674751,33,90.31865585343265,LAC,188,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x32 at 0x7FF134364F10>
+CUB,Cuba,70.8191264159632,56,96.25279191133554,LAC,192,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF134364D30>
+CYP,Cyprus,70.14401801781607,61,49.55259043362464,E. Europe & C. Asia,196,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FF134364040>
+CZE,Czech Republic,80.73623295798889,7,79.7552846599583,OECD,203,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134364190>
+DEU,Germany,81.06721263382096,6,67.8041404777676,OECD,276,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x31 at 0x7FF1343642B0>
+DJI,Djibouti,51.3623682332867,148,83.6517464692374,Africa,262,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF134364340>
+DMA,Dominica,,0,,LAC,212,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1343644F0>
+DNK,Denmark,85.21777289472355,1,75.96162492840674,OECD,208,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x38 at 0x7FF134364610>
+DOM,Dominican Republic,69.76190865647757,64,95.14282166143944,LAC,214,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FF1343660E0>
+DZA,Algeria,71.09970575644881,53,96.953327390731,MENA,12,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F0070>
+ECU,Ecuador,72.29118215582369,46,96.5446126146888,LAC,218,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x26 at 0x7FF1342F0190>
+EGY,"Egypt, Arab Rep.",66.20609093823161,92,98.67877830733264,MENA,818,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F02B0>
+ERI,Eritrea,,0,,Africa,232,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F03D0>
+ESP,Spain,77.84050474283765,21,70.10204803833439,OECD,724,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F04F0>
+EST,Estonia,80.22006451483878,10,82.88260657368602,OECD,233,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F0610>
+ETH,Ethiopia,53.24991421975776,135,99.12088274301416,Africa,231,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x29 at 0x7FF1342F0730>
+FIN,Finland,82.82204663350274,3,67.10450610968013,OECD,246,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x31 at 0x7FF1342F0850>
+FJI,Fiji,70.07084208360426,62,94.38014503155716,Oceania,242,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F0970>
+FRA,France,81.4933991462154,4,61.48619281478956,OECD,250,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F0A90>
+FSM,"Micronesia, Fed. Sts.",,0,,Oceania,583,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FF1342F0B20>
+GAB,Gabon,64.76491308522095,99,97.08800261295352,Africa,266,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F0CD0>
+GBR,United Kingdom,79.3759676753142,13,50.71740333946088,OECD,826,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F0DF0>
+GEO,Georgia,68.91341134165594,73,89.09424245357883,E. Europe & C. Asia,268,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F0F10>
+GHA,Ghana,63.80165877668611,104,97.52372853510852,Africa,288,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F1030>
+GIN,Guinea,52.81496328702183,138,94.07350631281956,Africa,324,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F1150>
+GMB,"Gambia, The",55.00110935324603,131,89.33383359771743,Africa,270,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F1270>
+GNB,Guinea-Bissau,,0,,Africa,624,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F1390>
+GNQ,Equatorial Guinea,,0,,Africa,226,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F14B0>
+GRC,Greece,71.40963725587672,50,64.63883206628617,OECD,300,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x32 at 0x7FF1342F15D0>
+GRD,Grenada,,0,,LAC,308,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x29 at 0x7FF1342F16F0>
+GTM,Guatemala,59.64725881223599,122,95.72085135485358,LAC,320,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F1810>
+GUY,Guyana,61.40777356628694,114,64.96354458602778,LAC,328,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F1930>
+HND,Honduras,63.41418904594347,107,95.3887350343917,LAC,340,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F1A50>
+HRV,Croatia,77.79186019687131,22,85.88880362059942,E. Europe & C. Asia,191,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F1B70>
+HTI,Haiti,48.435080656033016,156,97.90447316118518,LAC,332,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F1C90>
+HUN,Hungary,76.88659376872938,25,81.91659157006148,OECD,348,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F1DB0>
+IDN,Indonesia,64.19349115538395,102,97.73813798201051,East & South Asia,360,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F1ED0>
+IND,India,61.07688833518631,115,99.41030060044906,East & South Asia,356,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F1FF0>
+IRL,Ireland,78.21597902394831,19,61.55409564576483,OECD,372,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F2110>
+IRN,"Iran, Islamic Rep.",70.48640871010336,58,92.34523490189405,MENA,364,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x28 at 0x7FF1342F2230>
+IRQ,Iraq,60.792815590367766,117,93.96880770043556,MENA,368,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F2350>
+ISL,Iceland,79.20300118621701,14,70.35544692082334,OECD,352,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x36 at 0x7FF1342F2470>
+ISR,Israel,71.52939234507471,49,62.03211427261426,OECD,376,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x36 at 0x7FF1342F2590>
+ITA,Italy,75.79012802006855,30,65.62239342901063,OECD,380,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F26B0>
+JAM,Jamaica,68.79748022775873,74,92.2403623578047,LAC,388,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F27D0>
+JOR,Jordan,68.08526388913299,81,88.4601077327763,MENA,400,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F28F0>
+JPN,Japan,78.91741824397424,15,72.13475288812307,OECD,392,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F2A10>
+KAZ,Kazakhstan,68.70933209514025,77,98.01162342450056,E. Europe & C. Asia,398,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F2B30>
+KEN,Kenya,57.02821663819345,125,92.45762367021186,Africa,404,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F2C50>
+KGZ,Kyrgyz Republic,71.6172640709286,48,95.38910208578484,E. Europe & C. Asia,417,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F2D70>
+KHM,Cambodia,61.78418151263683,112,98.62636364165368,East & South Asia,116,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F2E90>
+KIR,Kiribati,,0,,Oceania,296,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F2FB0>
+KNA,St. Kitts and Nevis,,0,,LAC,659,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F30D0>
+KOR,"Korea, Rep.",78.3318154241419,18,72.32664778366205,OECD,410,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FF1342F31F0>
+KWT,Kuwait,63.51173900331314,106,50.01186208888744,MENA,414,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F3310>
+LAO,Lao PDR,62.02906674130222,111,99.21368932459907,East & South Asia,418,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F3430>
+LBN,Lebanon,65.66628291192977,94,84.16125114526021,MENA,422,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F3550>
+LBR,Liberia,48.18253992937193,157,97.22145427776891,Africa,430,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x26 at 0x7FF1342F3670>
+LBY,Libya,,0,,MENA,434,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F3790>
+LCA,St. Lucia,,0,,LAC,662,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F38B0>
+LIE,Liechtenstein,,0,,E. Europe & C. Asia,438,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F39D0>
+LKA,Sri Lanka,65.84124908240369,93,94.18410002986928,East & South Asia,144,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F3AF0>
+LSO,Lesotho,50.9427933174616,150,92.48534468971768,Africa,426,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F3C10>
+LTU,Lithuania,75.10327206588286,32,73.11824307141154,OECD,440,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1342F3D30>
+LUX,Luxembourg,74.78446077507982,34,41.62321063290717,OECD,442,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FF1342F3E50>
+LVA,Latvia,77.1349779957184,24,71.86532721127277,OECD,428,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1342F3F70>
+MAR,Morocco,69.06972965847484,72,96.12648519290818,MENA,504,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E00D0>
+MCO,Monaco,,0,,E. Europe & C. Asia,492,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E01F0>
+MDA,Moldova,74.4097740391286,37,98.45402270454184,E. Europe & C. Asia,498,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E0310>
+MDG,Madagascar,46.69895506949963,158,95.77128228926496,Africa,450,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E0430>
+MDV,Maldives,72.12313036807359,47,69.56680434562253,East & South Asia,462,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E0550>
+MEX,Mexico,68.50928202779325,78,93.33169265586598,OECD,484,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x29 at 0x7FF1341E0670>
+MHL,Marshall Islands,,0,,Oceania,584,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E0790>
+MKD,North Macedonia,69.3839221034339,70,94.77697434745475,E. Europe & C. Asia,807,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E08B0>
+MLI,Mali,50.21473317751509,152,98.91793663081748,Africa,466,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E09D0>
+MLT,Malta,76.10531233049193,28,62.93636110693904,E. Europe & C. Asia,470,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E0AF0>
+MMR,Myanmar,62.1785335363315,110,99.81104534725192,East & South Asia,104,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x28 at 0x7FF1341E0C10>
+MNE,Montenegro,67.25013397418648,87,64.97948094224131,E. Europe & C. Asia,499,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E0D30>
+MNG,Mongolia,64.69385863543435,100,97.32998510326192,East & South Asia,496,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E0E50>
+MOZ,Mozambique,53.03355690479534,136,96.538590704548,Africa,508,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E0F70>
+MRT,Mauritania,53.32943929405303,134,96.40477357680749,Africa,478,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E1000>
+MUS,Mauritius,63.58915857440773,105,48.605726896911534,Africa,480,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E11B0>
+MWI,Malawi,51.38114315209315,146,99.01999506708567,Africa,454,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E12D0>
+MYS,Malaysia,69.55789055551838,68,89.09615099971695,East & South Asia,458,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E13F0>
+NAM,Namibia,59.86720464887587,119,85.46284853367223,Africa,516,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E1510>
+NER,Niger,49.44801207358358,154,97.9024236360562,Africa,562,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E1630>
+NGA,Nigeria,46.4057917499608,159,97.84634922937732,Africa,566,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E1750>
+NIC,Nicaragua,67.94340864347802,82,96.5204282976354,LAC,558,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E1870>
+NLD,Netherlands,80.37856418555526,9,49.57804397180826,OECD,528,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E1990>
+NOR,Norway,80.66082439652112,8,53.43025347961051,OECD,578,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FF1341E1AB0>
+NPL,Nepal,63.934703982277625,103,98.54026881013029,East & South Asia,524,<PIL.GifImagePlugin.GifImageFile image mode=P size=38x50 at 0x7FF1341E1BD0>
+NRU,Nauru,,0,,Oceania,520,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E1CF0>
+NZL,New Zealand,79.49848438583408,11,78.10110066376558,OECD,554,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E1E10>
+OMN,Oman,67.85528519956368,83,79.0007616241496,MENA,512,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E1EA0>
+PAK,Pakistan,55.56603409119187,130,99.36287598262852,East & South Asia,586,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E2050>
+PAN,Panama,66.30655957204621,90,77.16991730831872,LAC,591,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E20E0>
+PER,Peru,71.1857253240219,51,96.8683507319574,LAC,604,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E2290>
+PHL,Philippines,64.93638893917121,97,98.31132345905272,East & South Asia,608,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E23B0>
+PLW,Palau,,0,,Oceania,585,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E24D0>
+PNG,Papua New Guinea,51.61521377109302,143,99.2097766087937,Oceania,598,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x38 at 0x7FF1341E25F0>
+POL,Poland,75.92808894265113,29,84.86531620478065,OECD,616,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x31 at 0x7FF1341E2710>
+PRK,"Korea, Dem. Rep.",,0,,East & South Asia,408,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E2830>
+PRT,Portugal,76.42595361836092,26,70.85665227133228,OECD,620,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FF1341E28C0>
+PRY,Paraguay,67.51844679313412,86,95.56418731887936,LAC,600,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E2A70>
+QAT,Qatar,66.2791089151293,91,66.00409019295776,MENA,634,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E2B90>
+ROU,Romania,72.7307552387194,42,93.7854621400765,E. Europe & C. Asia,642,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E2CB0>
+RUS,Russian Federation,70.94033861588618,55,82.24270883213843,E. Europe & C. Asia,643,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E2DD0>
+RWA,Rwanda,56.02193655175769,126,97.63484929963852,Africa,646,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x23 at 0x7FF1341E2EF0>
+SAU,Saudi Arabia,64.83798684316423,98,82.29487815917757,MENA,682,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E3010>
+SDN,Sudan,51.36317921378709,147,99.4157668066339,Africa,729,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E3130>
+SEN,Senegal,57.30125573352039,124,96.9470041746836,Africa,686,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E3250>
+SGP,Singapore,69.6157177776083,66,33.541953978173424,East & South Asia,702,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E3370>
+SLB,Solomon Islands,,0,,Oceania,90,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E3400>
+SLE,Sierra Leone,49.24040722157241,155,93.70430371603376,Africa,694,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E35B0>
+SLV,El Salvador,66.73287769693358,89,91.56593555164824,LAC,222,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x32 at 0x7FF1341E36D0>
+SMR,San Marino,,0,,E. Europe & C. Asia,674,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E37F0>
+SOM,Somalia,,0,,Africa,706,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E3910>
+SRB,Serbia,72.48658053554539,44,77.5845463875137,E. Europe & C. Asia,688,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E3A30>
+SSD,South Sudan,,0,,Africa,728,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E3B50>
+STP,Sao Tome and Principe,65.48414011973789,95,90.31267013709672,Africa,678,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E3C70>
+SUR,Suriname,67.03353939779355,88,89.89353226771247,LAC,740,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E3D90>
+SVK,Slovak Republic,76.21470143953968,27,71.39443873706486,OECD,703,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1341E3EB0>
+SVN,Slovenia,79.40811996897655,12,69.98239619292552,OECD,705,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1341E3FD0>
+SWE,Sweden,84.9923505740441,2,67.7249176878287,OECD,752,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x32 at 0x7FF1340E0130>
+SWZ,Eswatini,51.68794410229367,142,85.21033251927541,Africa,748,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E0250>
+SYC,Seychelles,,0,,Africa,690,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1340E0370>
+SYR,Syrian Arab Republic,58.12741643688141,123,96.81622064440128,MENA,760,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x32 at 0x7FF1340E0490>
+TCD,Chad,42.78711763710128,161,99.51790520558598,Africa,148,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E05B0>
+TGO,Togo,51.5963829858639,144,97.71369636793756,Africa,768,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E06D0>
+THA,Thailand,73.00058109655703,40,97.21486953220584,East & South Asia,764,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E07F0>
+TJK,Tajikistan,69.22656480898894,71,97.64958648730187,E. Europe & C. Asia,762,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1340E0910>
+TKM,Turkmenistan,64.25774761634867,101,90.522231020873,E. Europe & C. Asia,795,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E0A30>
+TLS,Timor-Leste,,0,,East & South Asia,626,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1340E0B50>
+TON,Tonga,,0,,Oceania,776,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1340E0C70>
+TTO,Trinidad and Tobago,67.55632494325059,85,92.04637837244266,LAC,780,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FF1340E0D00>
+TUN,Tunisia,69.98799710837255,63,93.17533726331312,MENA,788,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E0EB0>
+TUR,Turkey,68.48880697949511,79,90.75059379526824,OECD,792,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E0FD0>
+TUV,Tuvalu,,0,,Oceania,798,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1340E10F0>
+TZA,Tanzania,55.82068539662198,128,98.63710031930373,Africa,834,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E1210>
+UGA,Uganda,52.57466297593558,140,98.0920684129268,Africa,800,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FF1340E1330>
+UKR,Ukraine,72.81392877924071,41,94.12614467367764,E. Europe & C. Asia,804,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E13C0>
+URY,Uruguay,72.55117803429054,43,90.48111934418372,LAC,858,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FF1340E1570>
+USA,United States,74.5196102840175,35,51.08304579265401,OECD,840,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x26 at 0x7FF1340E1690>
+UZB,Uzbekistan,71.13055053853537,52,98.9522579468718,E. Europe & C. Asia,860,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1340E17B0>
+VCT,St. Vincent and the Grenadines,,0,,LAC,670,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E18D0>
+VEN,"Venezuela, RB",63.05439028317698,108,97.48409534923302,LAC,862,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x34 at 0x7FF1340E19F0>
+VNM,Vietnam,71.08528125073332,54,96.36876774922904,East & South Asia,704,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E1B10>
+VUT,Vanuatu,59.874248640183694,118,92.9730025441429,Oceania,548,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x27 at 0x7FF1340E1C30>
+WSM,Samoa,,0,,Oceania,882,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1340E1D50>
+YEM,"Yemen, Rep.",53.70207319275844,133,94.10956365430016,MENA,887,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E1E70>
+ZAF,South Africa,61.48093271752385,113,97.1034840924496,Africa,710,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x30 at 0x7FF1340E1F90>
+ZMB,Zambia,52.61508404984109,139,98.80372595488517,Africa,894,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x33 at 0x7FF1340E20B0>
+ZWE,Zimbabwe,59.67352400536655,121,96.09614794059348,Africa,716,<PIL.GifImagePlugin.GifImageFile image mode=P size=50x25 at 0x7FF1340E21D0>
